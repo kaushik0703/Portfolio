@@ -1,20 +1,15 @@
-# Build and Deploy a Fantastic 3D Portfolio Website with Three.js and React.js
-![3D Portfolio](https://i.ibb.co/9ykhLtM/Thumbnail.png)
+# Portfolio Website with React.js and Three.js
 
 ## Introduction
-The most impressive websites in the world use 3D graphics and animations to bring their content to life. Learn how to build your own ThreeJS 3D Developer Portfolio today! 
+Hi there! Welcome to my portfolio. I created this site using React and Three.js, two awesome libraries for building interactive web applications. On this site, you can see some of my projects, skills, and hobbies. I hope you enjoy exploring my portfolio and learning more about me.
  
-In this course, you'll learn the following:
+I've use following frameworks while doing this project:
 - ThreeJS - a powerful 3D graphics library for rendering and animating the 3D model
 - React Three Fiber - a popular library for creating 3D graphics with ThreeJS in React
 - TailwindCSS - a popular utility-first CSS styling framework
 - Framer Motion - the most popular library used to bring your React website to life with animations
-You'll also learn how to:
+- 
+While doing this project I've:
 - Load, create and customize stunning 3D models and geometries with various lights, as well as understand the 3D world with a camera and positioning of an object in space.
-- Make your code reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
-- Implement sending emails through a form on the website
+- Made use of reusable and scalable using Higher Order Components (HOCs) and other industry-standard best practices
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
-
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
