@@ -252,7 +252,7 @@ const projects = [
       },
     ],
     image: portfolio,
-    website_link: "http://iiitv.centralindia.cloudapp.azure.com:3000/",
+    website_link: "kaushikmoralwar.netlify.app/",
     source_code_link: "https://github.com/",
   },
   {
