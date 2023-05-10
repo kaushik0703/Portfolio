@@ -212,7 +212,7 @@ const testimonials = [
 
 const projects = [
   {
-    name: "BOAAT STORE",
+    name: "SHOE STORE",
     description:
       "Created an ecommerce website using Strapi, React and Stripe. Website is responsive and adapts to different screen sizes and devices. It also has a modern and attractive design that enhances the user experience.",
     tags: [
@@ -230,8 +230,8 @@ const projects = [
       },
     ],
     image: Store,
-    website_link: "http://iiitv.centralindia.cloudapp.azure.com:3000/",
-    source_code_link: "https://github.com/kaushik0703/BOAAT-STORE",
+    website_link: "https://shoe-store-frontend.vercel.app/",
+    source_code_link: "https://github.com/kaushik0703/shoe-store-frontend",
   },
   {
     name: "Kaushik | Portfolio",
@@ -256,26 +256,30 @@ const projects = [
     source_code_link: "https://github.com/",
   },
   {
-    name: "Weather Forecast",
+    name: "Restore Memories",
     description:
-      "It is a simple weather forecasting website which retrieves location information and sends back information regarding today’s weather",
+      "In this website I've tried to integrate API called Replicate based on ML model called GFPGAN from Applied Research Center to enhance the quality of face photo. The website is built with ReactJS and NextJS, user-friendly interface, and photo download.",
     tags: [
       {
         name: "HTML",
         color: "blue-text-gradient",
       },
       {
-        name: "hbs",
-        color: "green-text-gradient",
-      },
-      {
         name: "css",
         color: "pink-text-gradient",
       },
+      {
+        name: "ReactJS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "NextJS",
+        color: "green-text-gradient",
+      }
     ],
     image: Weather,
-    website_link: "http://iiit.centralindia.cloudapp.azure.com:3000/",
-    source_code_link: "https://github.com/kaushik0703/Weather-Forecast",
+    website_link: "https://restorememories.netlify.app/",
+    source_code_link: "https://github.com/kaushik0703/PhotoRestore",
   },
 ];
 
